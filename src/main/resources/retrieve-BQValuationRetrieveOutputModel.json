@@ -1,0 +1,27 @@
+{
+  "businessService" : "businessService",
+  "valuationRetrieveActionResponse" : "valuationRetrieveActionResponse",
+  "valuationInstanceAnalysis" : {
+    "valuationInstanceAnalysisReportType" : "valuationInstanceAnalysisReportType",
+    "valuationInstanceAnalysisParameters" : "valuationInstanceAnalysisParameters",
+    "valuationInstanceAnalysisRecord" : {},
+    "valuationInstanceAnalysisReport" : {}
+  },
+  "valuationServiceName" : "valuationServiceName",
+  "valuationBusinessUnitEmployeeReference" : "VBUR715844",
+  "valuationServiceInputsandOuputs" : "valuationServiceInputsandOuputs",
+  "valuationWorkSchedule" : "valuationWorkSchedule",
+  "valuationPostconditions" : "valuationPostconditions",
+  "valuationServiceType" : "valuationServiceType",
+  "valuationRetrieveActionTaskReference" : "VRATR747364",
+  "valuationServiceWorkProduct" : "valuationServiceWorkProduct",
+  "valuationPreconditions" : "valuationPreconditions",
+  "valuationServiceDescription" : "valuationServiceDescription",
+  "valuationInstanceReport" : {
+    "valuationInstanceReportParameters" : "valuationInstanceReportParameters",
+    "valuationInstanceReportType" : "valuationInstanceReportType",
+    "valuationInstanceReport" : {},
+    "valuationInstanceReportRecord" : {}
+  },
+  "valuationRetrieveActionTaskRecord" : {}
+}

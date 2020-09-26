@@ -1,0 +1,27 @@
+{
+  "registrationBusinessUnitEmployeeReference" : "RBUR720047",
+  "collateralRegistration" : "collateralRegistration",
+  "registrationCollateralRegistrationServiceName" : "registrationCollateralRegistrationServiceName",
+  "registrationCollateralRegistrationServiceWorkProduct" : "registrationCollateralRegistrationServiceWorkProduct",
+  "registrationPreconditions" : "registrationPreconditions",
+  "registrationRetrieveActionResponse" : "registrationRetrieveActionResponse",
+  "registrationInstanceReport" : {
+    "registrationInstanceReportType" : "registrationInstanceReportType",
+    "registrationInstanceReportParameters" : "registrationInstanceReportParameters",
+    "registrationInstanceReportRecord" : {},
+    "registrationInstanceReport" : {}
+  },
+  "registrationRetrieveActionTaskReference" : "RRATR759668",
+  "registrationWorkSchedule" : "registrationWorkSchedule",
+  "registrationInstanceAnalysis" : {
+    "registrationInstanceAnalysisReportType" : "registrationInstanceAnalysisReportType",
+    "registrationInstanceAnalysisRecord" : {},
+    "registrationInstanceAnalysisParameters" : "registrationInstanceAnalysisParameters",
+    "registrationInstanceAnalysisReport" : {}
+  },
+  "registrationCollateralRegistrationServiceType" : "registrationCollateralRegistrationServiceType",
+  "registrationRetrieveActionTaskRecord" : {},
+  "registrationCollateralRegistrationServiceDescription" : "registrationCollateralRegistrationServiceDescription",
+  "registrationPostconditions" : "registrationPostconditions",
+  "registrationCollateralRegistrationServiceInputsandOuputs" : "registrationCollateralRegistrationServiceInputsandOuputs"
+}

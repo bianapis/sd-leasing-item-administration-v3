@@ -1,0 +1,24 @@
+{
+  "leasingItemAdministrationServicingSessionStatus" : "leasingItemAdministrationServicingSessionStatus",
+  "leasingItemAdministrationActivationActionTaskReference" : "SAATR758836",
+  "leasingItemAdministrationServicingSessionRecord" : {},
+  "leasingItemAdministrationActivationActionTaskRecord" : {},
+  "leasingItemAdministrationServiceConfigurationRecord" : {
+    "leasingItemAdministrationServiceConfigurationSetup" : {
+      "leasingItemAdministrationServiceConfigurationParameter" : "leasingItemAdministrationServiceConfigurationParameter"
+    },
+    "leasingItemAdministrationServiceConfigurationSettingReference" : "700761",
+    "leasingItemAdministrationServiceConfigurationSettingDescription" : "leasingItemAdministrationServiceConfigurationSettingDescription",
+    "leasingItemAdministrationServiceSubscription" : {
+      "leasingItemAdministrationServiceSubscriberAccessProfile" : "leasingItemAdministrationServiceSubscriberAccessProfile",
+      "leasingItemAdministrationServiceSubscriberReference" : "769192"
+    },
+    "leasingItemAdministrationServiceStatus" : "leasingItemAdministrationServiceStatus",
+    "leasingItemAdministrationServiceAgreement" : {
+      "leasingItemAdministrationServiceUserReference" : "767210",
+      "leasingItemAdministrationServiceAgreementReference" : "791202",
+      "leasingItemAdministrationServiceAgreementTermsandConditions" : "leasingItemAdministrationServiceAgreementTermsandConditions"
+    }
+  },
+  "leasingItemAdministrationServicingSessionReference" : "SSSR783215"
+}

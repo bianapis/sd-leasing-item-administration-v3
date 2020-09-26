@@ -1,0 +1,9 @@
+{
+  "leasingItemAdministrativePlanAssignment" : "leasingItemAdministrativePlanAssignment",
+  "leasingItemAdministrativePlanBudgetType" : "leasingItemAdministrativePlanBudgetType",
+  "leasingItemAdministrativePlanCaptureActionTaskRecord" : {},
+  "leasingItemAdministrativePlanCaptureActionTaskReference" : "LIAPCATR709349",
+  "leasingItemAdministrativePlanPlan" : "leasingItemAdministrativePlanPlan",
+  "captureResponseRecord" : {},
+  "captureRecordReference" : "CRR733689"
+}

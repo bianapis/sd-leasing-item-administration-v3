@@ -1,0 +1,11 @@
+{
+  "leasingItemAdministrativePlanAssignment" : "leasingItemAdministrativePlanAssignment",
+  "leasingItemAdministrativePlanBudgetType" : "leasingItemAdministrativePlanBudgetType",
+  "leasingItemAdministrativePlanGrantActionTaskRecord" : {},
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "leasingItemAdministrativePlanPlan" : "leasingItemAdministrativePlanPlan",
+  "leasingItemAdministrativePlanGrantActionTaskReference" : "LIAPGATR799960",
+  "grantRequestRecordReference" : "GRRR727882"
+}

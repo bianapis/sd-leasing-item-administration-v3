@@ -1,0 +1,39 @@
+{
+  "leasingItemAdministrationRetrieveActionRecord" : {
+    "leasingItemAdministrationPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "leasingItemAdministrationActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "leasingItemAdministrationRetrieveActionTaskRecord" : {},
+  "leasingItemAdministrationOfferedService" : {
+    "leasingItemAdministrationServiceRecord" : {
+      "leasingItemAdministrationServiceVersion" : "leasingItemAdministrationServiceVersion",
+      "leasingItemAdministrationServiceDescription" : "leasingItemAdministrationServiceDescription",
+      "leasingItemAdministrationServiceType" : "leasingItemAdministrationServiceType",
+      "leasingItemAdministrationServicePoliciesandGuidelines" : {
+        "leasingItemAdministrationServiceEligibility" : "leasingItemAdministrationServiceEligibility",
+        "leasingItemAdministrationServicePricingandTerms" : "leasingItemAdministrationServicePricingandTerms",
+        "leasingItemAdministrationServiceIntendedUses" : "leasingItemAdministrationServiceIntendedUses"
+      },
+      "leasingItemAdministrationServiceSchedule" : "leasingItemAdministrationServiceSchedule"
+    },
+    "leasingItemAdministrationServiceReference" : "776158"
+  },
+  "leasingItemAdministrationRetrieveActionResponse" : "leasingItemAdministrationRetrieveActionResponse",
+  "leasingItemAdministrationRetrieveActionTaskReference" : "SRATR795161"
+}

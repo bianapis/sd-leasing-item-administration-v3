@@ -1,0 +1,16 @@
+{
+  "registrationBusinessUnitEmployeeReference" : "RBUR793765",
+  "collateralRegistration" : "collateralRegistration",
+  "registrationInitiateActionRecord" : {},
+  "registrationCollateralRegistrationServiceName" : "registrationCollateralRegistrationServiceName",
+  "registrationInstanceReference" : "RIR750141",
+  "registrationCollateralRegistrationServiceWorkProduct" : "registrationCollateralRegistrationServiceWorkProduct",
+  "registrationPreconditions" : "registrationPreconditions",
+  "registrationInitiateActionReference" : "RIAR759727",
+  "registrationInstanceStatus" : "registrationInstanceStatus",
+  "registrationWorkSchedule" : "registrationWorkSchedule",
+  "registrationCollateralRegistrationServiceType" : "registrationCollateralRegistrationServiceType",
+  "registrationCollateralRegistrationServiceDescription" : "registrationCollateralRegistrationServiceDescription",
+  "registrationPostconditions" : "registrationPostconditions",
+  "registrationCollateralRegistrationServiceInputsandOuputs" : "registrationCollateralRegistrationServiceInputsandOuputs"
+}

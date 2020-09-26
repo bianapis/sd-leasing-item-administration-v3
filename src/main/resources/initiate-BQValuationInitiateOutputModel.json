@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "valuationServiceName" : "valuationServiceName",
+  "valuationInitiateActionReference" : "VIAR766616",
+  "valuationBusinessUnitEmployeeReference" : "VBUR721962",
+  "valuationServiceInputsandOuputs" : "valuationServiceInputsandOuputs",
+  "valuationInstanceReference" : "VIR707373",
+  "valuationWorkSchedule" : "valuationWorkSchedule",
+  "valuationPostconditions" : "valuationPostconditions",
+  "valuationInitiateActionRecord" : {},
+  "valuationServiceType" : "valuationServiceType",
+  "valuationServiceWorkProduct" : "valuationServiceWorkProduct",
+  "valuationPreconditions" : "valuationPreconditions",
+  "valuationServiceDescription" : "valuationServiceDescription",
+  "valuationInstanceStatus" : "valuationInstanceStatus"
+}

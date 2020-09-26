@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationActivityAnalysis;
+import org.bian.dto.SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecord
+ */
+public class SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecord   {
+  private SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationActivityAnalysis leasingItemAdministrationActivityAnalysis = null;
+
+  private SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationPerformanceAnalysis leasingItemAdministrationPerformanceAnalysis = null;
+
+  private SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get leasingItemAdministrationActivityAnalysis
+   * @return leasingItemAdministrationActivityAnalysis
+  **/
+
+  public SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationActivityAnalysis getLeasingItemAdministrationActivityAnalysis() {
+    return leasingItemAdministrationActivityAnalysis;
+  }
+
+  public void setLeasingItemAdministrationActivityAnalysis(SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationActivityAnalysis leasingItemAdministrationActivityAnalysis) {
+    this.leasingItemAdministrationActivityAnalysis = leasingItemAdministrationActivityAnalysis;
+  }
+
+
+  /**
+   * Get leasingItemAdministrationPerformanceAnalysis
+   * @return leasingItemAdministrationPerformanceAnalysis
+  **/
+
+  public SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationPerformanceAnalysis getLeasingItemAdministrationPerformanceAnalysis() {
+    return leasingItemAdministrationPerformanceAnalysis;
+  }
+
+  public void setLeasingItemAdministrationPerformanceAnalysis(SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordLeasingItemAdministrationPerformanceAnalysis leasingItemAdministrationPerformanceAnalysis) {
+    this.leasingItemAdministrationPerformanceAnalysis = leasingItemAdministrationPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDLeasingItemAdministrationRetrieveOutputModelLeasingItemAdministrationRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

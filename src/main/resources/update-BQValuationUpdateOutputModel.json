@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "valuationUpdateActionTaskReference" : "VUATR777177",
+  "valuationServiceName" : "valuationServiceName",
+  "valuationBusinessUnitEmployeeReference" : "VBUR753220",
+  "valuationServiceInputsandOuputs" : "valuationServiceInputsandOuputs",
+  "valuationWorkSchedule" : "valuationWorkSchedule",
+  "valuationPostconditions" : "valuationPostconditions",
+  "valuationServiceType" : "valuationServiceType",
+  "valuationServiceWorkProduct" : "valuationServiceWorkProduct",
+  "valuationPreconditions" : "valuationPreconditions",
+  "valuationServiceDescription" : "valuationServiceDescription",
+  "updateResponseRecord" : {},
+  "valuationUpdateActionTaskRecord" : {}
+}

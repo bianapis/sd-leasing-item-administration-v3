@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "valuationCaptureActionTaskReference" : "VCATR785488",
+  "valuationServiceName" : "valuationServiceName",
+  "valuationBusinessUnitEmployeeReference" : "VBUR789243",
+  "valuationServiceInputsandOuputs" : "valuationServiceInputsandOuputs",
+  "valuationWorkSchedule" : "valuationWorkSchedule",
+  "valuationPostconditions" : "valuationPostconditions",
+  "valuationCaptureRecordReference" : "VCRR723676",
+  "valuationCaptureActionTaskRecord" : {},
+  "valuationServiceType" : "valuationServiceType",
+  "valuationServiceWorkProduct" : "valuationServiceWorkProduct",
+  "valuationPreconditions" : "valuationPreconditions",
+  "valuationServiceDescription" : "valuationServiceDescription",
+  "captureResponseRecord" : {}
+}

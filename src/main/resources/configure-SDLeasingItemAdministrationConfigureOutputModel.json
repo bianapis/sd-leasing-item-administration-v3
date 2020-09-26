@@ -1,0 +1,21 @@
+{
+  "leasingItemAdministrationServicingSessionStatus" : "leasingItemAdministrationServicingSessionStatus",
+  "leasingItemAdministrationConfigurationActionTaskReference" : "SCATR765419",
+  "leasingItemAdministrationConfigurationActionTaskRecord" : {},
+  "leasingItemAdministrationServiceConfigurationRecord" : {
+    "leasingItemAdministrationServiceConfigurationSetup" : {
+      "leasingItemAdministrationServiceConfigurationParameter" : "leasingItemAdministrationServiceConfigurationParameter"
+    },
+    "leasingItemAdministrationServiceConfigurationSettingDescription" : "leasingItemAdministrationServiceConfigurationSettingDescription",
+    "leasingItemAdministrationServiceSubscription" : {
+      "leasingItemAdministrationServiceSubscriberAccessProfile" : "leasingItemAdministrationServiceSubscriberAccessProfile",
+      "leasingItemAdministrationServiceSubscriberReference" : "756221"
+    },
+    "leasingItemAdministrationServiceStatus" : "leasingItemAdministrationServiceStatus",
+    "leasingItemAdministrationServiceAgreement" : {
+      "leasingItemAdministrationServiceUserReference" : "733696",
+      "leasingItemAdministrationServiceAgreementReference" : "721156",
+      "leasingItemAdministrationServiceAgreementTermsandConditions" : "leasingItemAdministrationServiceAgreementTermsandConditions"
+    }
+  }
+}

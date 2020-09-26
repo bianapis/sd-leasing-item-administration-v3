@@ -1,0 +1,19 @@
+{
+  "leasingItemAdministrativePlanAssignment" : "leasingItemAdministrativePlanAssignment",
+  "leasingItemAdministrativePlanReference" : "LIAPR752317",
+  "leasingItemAdministrativePlanBudgetType" : "leasingItemAdministrativePlanBudgetType",
+  "leasingItemAdministrativePlanInstanceAnalysis" : {
+    "leasingItemAdministrativePlanInstanceAnalysisReport" : {},
+    "leasingItemAdministrativePlanInstanceAnalysisReportType" : "leasingItemAdministrativePlanInstanceAnalysisReportType",
+    "leasingItemAdministrativePlanInstanceAnalysisData" : "leasingItemAdministrativePlanInstanceAnalysisData"
+  },
+  "leasingItemAdministrativePlanInstanceReportRecord" : {
+    "leasingItemAdministrativePlanInstanceReportType" : "leasingItemAdministrativePlanInstanceReportType",
+    "leasingItemAdministrativePlanInstanceReportData" : "leasingItemAdministrativePlanInstanceReportData",
+    "leasingItemAdministrativePlanInstanceReport" : {}
+  },
+  "leasingItemAdministrativePlanRetrieveActionResponse" : "leasingItemAdministrativePlanRetrieveActionResponse",
+  "leasingItemAdministrativePlanRetrieveActionTaskReference" : "LIAPRATR735775",
+  "leasingItemAdministrativePlanRetrieveActionTaskRecord" : {},
+  "leasingItemAdministrativePlanPlan" : "leasingItemAdministrativePlanPlan"
+}

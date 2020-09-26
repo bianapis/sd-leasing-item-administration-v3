@@ -1,0 +1,16 @@
+{
+  "registrationCaptureActionTaskRecord" : {},
+  "registrationBusinessUnitEmployeeReference" : "RBUR796627",
+  "collateralRegistration" : "collateralRegistration",
+  "registrationCaptureActionTaskReference" : "RCATR708664",
+  "registrationCollateralRegistrationServiceName" : "registrationCollateralRegistrationServiceName",
+  "registrationCollateralRegistrationServiceWorkProduct" : "registrationCollateralRegistrationServiceWorkProduct",
+  "registrationPreconditions" : "registrationPreconditions",
+  "registrationCaptureRecordReference" : "RCRR752382",
+  "registrationWorkSchedule" : "registrationWorkSchedule",
+  "registrationCollateralRegistrationServiceType" : "registrationCollateralRegistrationServiceType",
+  "registrationCollateralRegistrationServiceDescription" : "registrationCollateralRegistrationServiceDescription",
+  "captureResponseRecord" : {},
+  "registrationPostconditions" : "registrationPostconditions",
+  "registrationCollateralRegistrationServiceInputsandOuputs" : "registrationCollateralRegistrationServiceInputsandOuputs"
+}

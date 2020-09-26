@@ -1,0 +1,9 @@
+{
+  "leasingItemAdministrativePlanAssignment" : "leasingItemAdministrativePlanAssignment",
+  "leasingItemAdministrativePlanInitiateActionReference" : "LIAPIAR746468",
+  "leasingItemAdministrativePlanBudgetType" : "leasingItemAdministrativePlanBudgetType",
+  "leasingItemAdministrativePlanInstanceReference" : "LIAPIR781744",
+  "leasingItemAdministrativePlanPlan" : "leasingItemAdministrativePlanPlan",
+  "leasingItemAdministrativePlanInstanceStatus" : "leasingItemAdministrativePlanInstanceStatus",
+  "leasingItemAdministrativePlanInitiateActionRecord" : {}
+}
